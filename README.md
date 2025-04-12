@@ -46,7 +46,7 @@ Performed exploratory data analysis, uncovering critical booking and consumption
 
 ## 🎓 Coursework at Boston University (with mentors)
 
-- [Intro to Python Programming & Fundamentals of Data Analysis](https://ca.linkedin.com/in/hemant-sangwan) – Prof. Hemant Sangwan
+- Intro to Python Programming & Fundamentals of Data Analysis – [Prof. Hemant Sangwan](https://ca.linkedin.com/in/hemant-sangwan)
 - [Business Analytics Toolbox (SQL, Excel)](https://www.bu.edu/questrom/profiles/mohammad-soltanieh-ha/) – Prof. Mohammad Soltanieh-ha
 - [Supervised Machine Learning](https://www.bu.edu/questrom/profiles/nachiketa-sahoo/) – Prof. Nachiketa Sahoo
 - [Competing with Analytics](https://www.bu.edu/questrom/profiles/oliver-bandte/) – Prof. Oliver Bandte
