@@ -47,20 +47,20 @@ Performed exploratory data analysis, uncovering critical booking and consumption
 ## 🎓 Coursework at Boston University (with mentors)
 
 - Intro to Python Programming & Fundamentals of Data Analysis – [Prof. Hemant Sangwan](https://ca.linkedin.com/in/hemant-sangwan)
-- [Business Analytics Toolbox (SQL, Excel)](https://www.bu.edu/questrom/profiles/mohammad-soltanieh-ha/) – Prof. Mohammad Soltanieh-ha
-- [Supervised Machine Learning](https://www.bu.edu/questrom/profiles/nachiketa-sahoo/) – Prof. Nachiketa Sahoo
-- [Competing with Analytics](https://www.bu.edu/questrom/profiles/oliver-bandte/) – Prof. Oliver Bandte
-- [Teaming](https://www.bu.edu/questrom/profiles/paul-hutchinson/) – Prof. Paul Hutchinson
-- [Unsupervised Machine Learning](https://www.bu.edu/questrom/profiles/mohannad-elhamod/) – Prof. Mohannad Elhamod
-- [Business Experimentation](https://www.bu.edu/questrom/profiles/andrey-fradkin/) – Prof. Andrey Fradkin
-- [Marketing Analytics](https://www.bu.edu/questrom/profiles/tesary-lin/) – Prof. Tesary Lin
-- [Analytics Customer Strategy](https://www.bu.edu/questrom/profiles/samuel-engel/) – Prof. Samuel Engel
-- [Management Communication](https://www.bu.edu/questrom/profiles/michelle-ehrenreich/) – Prof. Michelle Ehrenreich
-- [Data-Driven Marketing Decisions](https://www.linkedin.com/in/jorisgjata) – Prof. Joris Gjata
-- [Data Ethics](https://www.bu.edu/questrom/profiles/dokyun-dk-lee/) – Prof. Dokyun Lee
-- Analytics Practicum – Industry-focused internship/research (Prof. TBD)
-- [Consumer Insights](https://www.bu.edu/questrom/profiles/nina-mazar/) – Prof. Nina Mazar
-- [Pricing Strategy & Tactics](https://www.bu.edu/questrom/profiles/shuba-srinivasan/) – Prof. Shuba Srinivasan
+- Intro to Data Analytics & Business Analytics Toolbox – [Prof. Mohammad Soltanieh-ha](https://www.bu.edu/questrom/profiles/mohammad-soltanieh-ha/)
+- Supervised Machine Learning – [Prof. Nachiketa Sahoo](https://www.bu.edu/questrom/profiles/nachiketa-sahoo/)
+- Competing with Analytics – [Prof. Oliver Bandte](https://www.bu.edu/questrom/profiles/oliver-bandte/)
+- Teaming – [Prof. Paul Hutchinson](https://www.bu.edu/questrom/profiles/paul-hutchinson/)
+- Unsupervised Machine Learning – [Prof. Mohannad Elhamod](https://www.bu.edu/questrom/profiles/mohannad-elhamod/)
+- Business Experimentation and Causal Inference – [Prof. Andrey Fradkin](https://www.bu.edu/questrom/profiles/andrey-fradkin/)
+- Marketing Analytics – [Prof. Tesary Lin](https://www.bu.edu/questrom/profiles/tesary-lin/)
+- Analytics Customer Strategy – [Prof. Samuel Engel](https://www.bu.edu/questrom/profiles/samuel-engel/)
+- Management Communication – [Prof. Michelle Ehrenreich](https://www.bu.edu/questrom/profiles/michelle-ehrenreich/)
+- Data-Driven Marketing Decisions – [Prof. Joris Gjata](https://www.linkedin.com/in/jorisgjata)
+- Data Ethics – [Prof. Dokyun Lee](https://www.bu.edu/questrom/profiles/dokyun-dk-lee/)
+- Analytics Practicum – [Industry-focused internship/research] (Prof. TBD)
+- Consumer Insights – [Prof. Nina Mazar](https://www.bu.edu/questrom/profiles/nina-mazar/)
+- Pricing Strategy & Tactics – [Prof. Shuba Srinivasan](https://www.bu.edu/questrom/profiles/shuba-srinivasan/)
 
 ---
 
