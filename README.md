@@ -2,7 +2,7 @@
 
 ### 🎨 Creative Heart • 📊 Analytical Mind • 🚀 Entrepreneurial Spirit
 
-Welcome! I'm Divyesh, I love blending creativity and data analytics seamlessly meet to solve complex business problems. My journey spans impactful university leadership, deep analytical expertise, VLSI Industrial Knowledge, Marketing in the Forefront with Ai, and entrepreneurial spirit. This GitHub is my digital canvas, showcasing detailed projects and professional experiences that highlight my approach and impact.
+Welcome! I'm Divyesh, I love blending creativity and data analytics seamlessly to solve complex business problems. My journey spans impactful university leadership, deep analytical expertise, VLSI Industrial Knowledge, Marketing in the Forefront with Ai, and entrepreneurial spirit. This GitHub is my digital canvas, showcasing detailed projects and professional experiences that highlight my approach and impact.
 
 ---
 
