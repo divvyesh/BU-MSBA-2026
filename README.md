@@ -19,25 +19,25 @@ Professionally, my tenure at **Sumedha IT** evolved from intern to Marketing & B
 ## 📂 GitHub Projects & Detailed Impact
 
 ### 1. Airbnb Price Prediction (Supervised Machine Learning)
-Built regression models (Python: pandas, sklearn) to accurately predict Airbnb pricing, optimizing revenue management strategies through predictive insights.
+Built regression models (Python) to accurately predict Airbnb pricing, optimizing revenue management strategies through predictive insights.
 
 ### 2. Consumer Insights Client Research (Newdia)
 Conducted extensive qualitative & quantitative consumer research, optimizing in-store conversions through actionable customer insights and tailored marketing strategies.
 
 ### 3. Starbucks Choice Overload Experiment
-Designed causal experiments using rigorous statistical tests (A/B testing methodologies) to analyze consumer behavior, informing strategic assortment planning.
+Designed causal experiments using rigorous statistical tests to analyze consumer behavior, informing strategic assortment planning.
 
 ### 4. MBTA Transit SQL Optimization
 Leveraged advanced SQL analytics to optimize transit schedules and enhance commuter experience, visualized through dynamic dashboards (Tableau, Power BI).
 
 ### 5. Banking Customer Segmentation (Unsupervised Machine Learning)
-Implemented PCA and clustering techniques (K-means, hierarchical clustering) in Python, creating strategic customer segments for personalized banking services.
+Implemented PCA and clustering techniques (K-means, DBSCAN, hierarchical clustering, Associate Rule Mining) in Python, creating strategic customer segments for personalized banking services.
 
 ### 6. Salesforce Strategic Pitch Deck
 Developed a strategic sales deck using visual storytelling frameworks to secure stakeholder support, highlighting integration benefits and strategic business outcomes.
 
 ### 7. EV Industry Market Analytics
-Conducted extensive market analysis (Tableau dashboards), identifying EV adoption trends and guiding strategic market-entry decisions.
+Used Clustering techniques to identify Optimal hotspots across US with High ROI based on Investable Rankings, Conducted extensive market analysis, Developed deployable business models, identifying EV adoption trends and guiding strategic market-entry decisions.
 
 ### 8. Consumer Behavior & Booking Trends Analytics
 Performed exploratory data analysis, uncovering critical booking and consumption patterns influencing strategic pricing and promotional decisions.
