@@ -60,6 +60,8 @@ Performed exploratory data analysis, uncovering critical booking and consumption
 - Data Ethics – [Prof. Dokyun Lee](https://www.bu.edu/questrom/profiles/dokyun-dk-lee/)
 - Analytics Practicum – [Industry-focused internship/research] (Prof. TBD)
 - Consumer Insights – [Prof. Nina Mazar](https://www.bu.edu/questrom/profiles/nina-mazar/)
+- Big Data Analytics - – [Prof. Mohammad Soltanieh-ha](https://www.bu.edu/questrom/profiles/mohammad-soltanieh-ha/)
+  
 
 ---
 
